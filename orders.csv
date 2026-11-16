@@ -1,0 +1,44 @@
+Order_ID,Product,Category,Quantity,Price
+O1001,Smartphone,Electronics,2,12000
+O1002,Laptop,Electronics,1,55000
+O1003,Headphones,Electronics,3,1800
+O1004,T-Shirt,Fashion,4,499
+O1005,Jeans,Fashion,2,1299
+O1006,Running Shoes,Fashion,1,2499
+O1007,Water Bottle,Home & Kitchen,5,299
+O1008,Mixer Grinder,Home & Kitchen,1,3299
+O1009,Bedsheet,Home & Kitchen,2,899
+O1010,Notebook,Stationery,10,60
+O1011,Pen Set,Stationery,6,120
+O1012,School Bag,Stationery,2,799
+O1013,Smartwatch,Electronics,2,4500
+O1014,Keyboard,Electronics,3,999
+O1015,Mouse,Electronics,4,499
+O1016,Kurta,Fashion,3,899
+O1017,Jacket,Fashion,1,2199
+O1018,Saree,Fashion,2,1799
+O1019,Pressure Cooker,Home & Kitchen,2,1599
+O1020,Dinner Set,Home & Kitchen,1,2499
+O1021,Desk Lamp,Home & Kitchen,3,649
+O1022,Marker Pack,Stationery,5,150
+O1023,Drawing Book,Stationery,4,110
+O1024,Calculator,Stationery,2,499
+O1025,Tablet,Electronics,1,18000
+O1026,Bluetooth Speaker,Electronics,2,2200
+O1027,Power Bank,Electronics,3,1499
+O1028,Hoodie,Fashion,2,1499
+O1029,Sandals,Fashion,3,699
+O1030,Handbag,Fashion,1,1899
+O1031,Cookware Set,Home & Kitchen,1,3999
+O1032,Storage Box,Home & Kitchen,4,349
+O1033,Pillow,Home & Kitchen,2,599
+O1034,Highlighter Set,Stationery,3,180
+O1035,File Folder,Stationery,8,45
+O1036,USB Drive,Electronics,5,650
+O1037,Cap,Fashion,2,399
+O1038,Nonstick Pan,Home & Kitchen,2,1199
+O1039,Notebook,Stationery,abc,60
+O1040,Headphones,Electronics,1,-1800
+O1041,,Fashion,2,500
+O1042,Mouse,Electronics,0,499
+O1003,Headphones,Electronics,3,1800
